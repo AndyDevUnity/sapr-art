@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sapr art", "sapr art.csproj", "{BA7439FD-F645-4083-9438-A6D89D13452A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7439FD-F645-4083-9438-A6D89D13452A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7439FD-F645-4083-9438-A6D89D13452A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7439FD-F645-4083-9438-A6D89D13452A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7439FD-F645-4083-9438-A6D89D13452A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAA010A-D1EE-411C-AD98-1FD826CC63B0}
+	EndGlobalSection
+EndGlobal
